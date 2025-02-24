@@ -1,31 +1,3 @@
-
-```markdown
-# 🚀 Port Scanner
-
-A **fast and efficient** Python-based port scanner that allows you to scan for open ports on any target IP. It utilizes **multithreading** for speed and provides an easy-to-use command-line interface.
-
-## 📌 Features
-- ⚡ **Fast scanning** using multithreading.
-- 🎯 **Custom port range** selection.
-- 🛠️ **Error handling** for failed connections.
-- 🖥️ **Lightweight & simple** (no external dependencies).
-
-## 📥 Installation
-
-### 🔹 Clone the Repository
-```bash
-git clone https://github.com/DustinThebegginer/portscanner.git
-cd portscanner
-```
-
-### 🔹 Ensure You Have Python Installed
-```bash
-python --version
-```
-If Python is not installed, download it from [Python.org](https://www.python.org/downloads/).
-
----
-
 ## 🚀 Usage
 
 Run the script with the following syntax:
